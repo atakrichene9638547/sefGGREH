@@ -1,0 +1,49 @@
+.jumbotron{
+	
+	height:600px;
+	background:url('https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=863ffeea823f0ffb0885fe1a5e77e645&auto=format&fit=crop&w=1500&q=80');
+	background-size: 80% ;
+	background-position: center;
+}
+h1{font-weight: 900;
+color: crimson !important;
+text-align: center;
+position: relative;
+top: 50%;
+}
+.col-md-6  {margin-top: 50px; 
+	text-align: center;
+}	
+.col-sm-12  {margin-top: 50px; 
+	text-align: center;}
+.col-md-4 p{
+	text-align: justify;
+}
+.col-xl-4  {margin-top: 50px; 
+	text-align: center;
+	}
+.col-md-4 i{
+	padding: 50px;
+	text-align :center; 
+}
+.carousel-inner{
+	position: relative;
+
+}
+.h2{
+	background-color: 
+}
+#div{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.img-circle{
+	width: 25%;
+	padding:50px ;
+}
+.img-circle {
+    position: absolute;
+    left: 37%;
+    top:70%;
+    z-index: 1;
+}
